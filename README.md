@@ -1,4 +1,20 @@
-## Hi there 👋
+## Hi there! 👋 I'm Kyra
+🌟 Welcome to my GitHub! I'm a passionate Full Stack Developer with 2+ years of experience building web applications.
+
+## 🚀 About Me
+**🔭 Current Role**: Fullstack Software Developer
+
+**🧰 Core Skills**:  
+**🎨 Frontend**: Angular, RxJS, HTML, Bootstrap  
+**🔧 Backend**: Node.js, TypeScript, GraphQL, TypeORM  
+**🗄️ Database**: PostgreSQL  
+
+**🌱 Currently Learning**:  
+- Angular 19  
+- Advanced Apollo-Angular  
+- TailwindCSS  
+- Angular Material  
+
 
 <!--
 **kyra-naidoo/kyra-naidoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
